@@ -1,3 +1,3 @@
 # Shobhit Ram Chaurasiya
 
-## NEWS CLASSIFICATION --ACCURACY -- 92%
+## Topic CLASSIFICATION --ACCURACY -- 92%
