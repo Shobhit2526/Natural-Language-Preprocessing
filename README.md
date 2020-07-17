@@ -1,0 +1,3 @@
+# Shobhit Ram Chaurasiya
+
+## TASK_2 -- NEWS CLASSIFICATION -- MODEL-- RANDOM FOREST -- ACCURACY -- 92%
